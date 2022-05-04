@@ -1,4 +1,4 @@
 # titulo
 ## subtitulo 
 
-frase com **enfase**
+**enfase**
